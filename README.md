@@ -6,6 +6,10 @@ Built in **R Shiny**, it allows analysts and decision-makers to explore carbon-c
 
 ---
 
+## 🌐 [Launch the interactive app](https://carboncostsim-by-sonya.shinyapps.io/personal_esg_project/)
+
+---
+
 ## 🔍 What It Does
 
 - Projects emissions, output, and revenue over a 10-year horizon  
@@ -24,3 +28,5 @@ Built in **R Shiny**, it allows analysts and decision-makers to explore carbon-c
 | Labour productivity drop     | Delayed productivity losses from emissions-linked climate stress            |
 | Carbon pricing               | Applies cost to each tonne of CO2e                                          |
 | Emissions intensity increase | Optional logic for emissions w
+
+
